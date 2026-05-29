@@ -1,4 +1,4 @@
-# AMOGH — Worlds 1st real time HFT mesh network 
+# AMOGH — World's 1st real time HFT mesh network 
 
 > *"Quantum Minds | BuildVerse Hackathon 2026 | FinTech Track"*
 > 
